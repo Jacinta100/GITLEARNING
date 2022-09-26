@@ -1,0 +1,11 @@
+    *{
+        margin-top: 0;
+        padding: 0;
+    }
+    
+
+    .btn{
+        background-color: aquamarine;
+        color: rgb(22, 18, 11);
+        padding: 20px;
+    }
